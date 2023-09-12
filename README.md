@@ -78,7 +78,9 @@ Random Forest algorithm that uses information gain to select best features.
 After applying these 3 methods on our three target variables namely
 “Weight_Baby_Kg”, “NICU_Stay”, “C-section”, we came across 3 different
 sets of ranking for each variable and later we selected those features which are
-common in the result of 3 methods. The result is as follows:
+common in the result of 3 methods.
+## feature extraction result
+The result is as follows:
 1. For the feature “Weight_Baby_Kg
 [‘IVF’,'BMI','Age_Of_Mother','Contraceptive_Time','Excercise_During_Pr
 egnency','Pollution_During_Pregnency','PCOS','Issues_Pregnancy_Cold_Vi
